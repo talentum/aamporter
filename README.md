@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # aamporter
 
 ## Overview
@@ -140,8 +141,13 @@ Select either `munkiimport` or `makepkginfo`.  `munkiimport` is the default.
 
 Greg Neagle gave a lot of constructive and insightful feedback since this was first posted, and his testing has greatly helped shape the functionality of aamporter.
 =======
+=======
+>>>>>>> 4baa24af560c37a0d4985b62411a89630d5f97d3
 aamporter
 =========
 
 Talentum aamporter repo för Adobe uppdateringar
+<<<<<<< HEAD
 >>>>>>> 82eb14d0e548ed827bf29601e3c24d7f16594b6a
+=======
+>>>>>>> 4baa24af560c37a0d4985b62411a89630d5f97d3
